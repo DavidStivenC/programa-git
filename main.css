@@ -1,0 +1,14 @@
+.carosel-item{
+    max-height: 39rem;
+}
+
+@media(max-width:576px){
+    .icono-wrap{
+        flex-wrap:wrap;
+        justify-content: center !important;
+    }
+}
+
+
+
+
